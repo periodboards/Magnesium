@@ -5,7 +5,7 @@ outputs:
   - name: 'interactive_bom'
     comment: "Interactive Bill of Materials (HTML)"
     type: ibom
-    dir: BoM
+    dir: Generated
     options:
       hide_pads: false
       show_fabrication: false
