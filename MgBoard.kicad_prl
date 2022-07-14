@@ -10,7 +10,7 @@
       "pads": 1.0,
       "tracks": 1.0,
       "vias": 1.0,
-      "zones": 0.6
+      "zones": 0.009999999776482582
     },
     "ratsnest_display_mode": 0,
     "selection_filter": {
@@ -57,15 +57,18 @@
       28,
       29,
       30,
-      37,
-      38
+      32,
+      33,
+      34,
+      35,
+      36
     ],
     "visible_layers": "fffffff_ffffffff",
     "zone_display_mode": 0
   },
   "meta": {
     "filename": "MgBoard.kicad_prl",
-    "version": 2
+    "version": 3
   },
   "project": {
     "files": []
